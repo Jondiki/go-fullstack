@@ -5,7 +5,7 @@ app.set('port',process.env.PORT || 3000)
 const server = http.createServer(app);
 
 // const server = http.createServer((req, res) => {
-//     res.end('hey  gvoiv la la réponse du serveur')
+//     res.end(' réponse du serveur')
 // })
 
 
